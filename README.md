@@ -4,6 +4,8 @@
 
 - 🌱 Atualmente estou aprendendo e estudando ... Java
 
+- 🎓 Atualmente sou aluno da Faculdade digital descomplica no curso de Análise e desenvolvimento de Sistemas
+
 - 💞️ estou procurando e irei ajudar quando possível em ... Projetos Java e Python 
 
 - 📫 Você pode me encontrar em ... github e no e-mail paulo-augusto12@outlook.com
