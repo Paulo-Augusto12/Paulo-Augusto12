@@ -2,9 +2,9 @@
 
 - 👋 Olá, eu sou @Paulo-Augusto12
 
-- 👀 Estou atualmente interessado em Java , Javascript , Python , learning everything
+- 👀 Estou atualmente interessado em Java , Javascript , Python , CSS , HTML , React , e Mysql
 
-- 🌱 Atualmente estou aprendendo e estudando ... Java
+- 🌱 Atualmente estou aprendendo e estudando ... Java , javascript , Python 
 
 - 🎓 Atualmente sou aluno da Faculdade digital descomplica no curso de Análise e desenvolvimento de Sistemas
 
