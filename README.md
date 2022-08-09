@@ -2,13 +2,13 @@
 
 - 👋 Olá, eu sou @Paulo-Augusto12
 
-- 👀 Estou atualmente interessado em Java , Javascript , Python , CSS , HTML , React , e Mysql
+- 👀 Estou atualmente interessado em Java , Javascript , TypeScript , CSS e seus derivados , HTML , e React 
 
-- 🌱 Atualmente estou aprendendo e estudando ... Java , javascript , Python 
+- 🌱 Atualmente estou aprendendo e estudando ... Java , javascript , React , TypeScript  
 
 - 🎓 Atualmente sou aluno da Faculdade digital descomplica no curso de Análise e desenvolvimento de Sistemas
 
-- 💞️ estou procurando e irei ajudar quando possível em ... Projetos Java e Python 
+- 💞️ estou procurando e irei ajudar quando possível em ... Projetos React ou Java 
 
 - 📫 Você pode me encontrar através do E-mail: paulo-augusto12@outlook.com
  
