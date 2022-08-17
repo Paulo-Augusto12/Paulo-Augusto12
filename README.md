@@ -6,9 +6,9 @@
 
 - 🌱 Atualmente estou aprendendo e estudando ... Java , javascript , React , TypeScript  
 
-- 🎓 Atualmente sou aluno da Faculdade digital descomplica no curso de Análise e desenvolvimento de Sistemas
+- 🎓 Atualmente sou aluno da Faculdade digital Descomplica no curso de Análise e desenvolvimento de Sistemas
 
-- 💞️ estou procurando e irei ajudar quando possível em ... Projetos React ou Java 
+- 💞️ estou procurando e irei ajudar quando possível em ... Projetos React, Java, e o que puder aprender 
 
 - 📫 Você pode me encontrar através do E-mail: paulo-augusto12@outlook.com
  
