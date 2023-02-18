@@ -2,13 +2,13 @@
 
 - 👋 Olá, eu sou @Paulo-Augusto12
 
-- 👀 Estou atualmente interessado em Java , Javascript , TypeScript , CSS e seus derivados , HTML , React, Node, Sql 
+- 👀 Estou atualmente interessado em Java , Javascript , TypeScript , CSS e seus derivados , HTML , React, Node, Sql, Postgress 
 
-- 🌱 Atualmente estou aprendendo e estudando ... Java , javascript , React , TypeScript, Node.Js, Nginx  
+- 🌱 Atualmente estou aprendendo e estudando ... javascript , React , TypeScript, Node.Js
 
 - 🎓 Atualmente sou aluno da Faculdade digital Descomplica no curso de Análise e desenvolvimento de Sistemas
 
-- 💞️ estou procurando e irei ajudar quando possível em ... Projetos React, Java, e o que puder aprender 
+- 🎯 estou procurando e irei ajudar quando possível em ... Projetos React e Node
 
 - 📫 Você pode me encontrar através do E-mail: paulo-augusto12@outlook.com
  
