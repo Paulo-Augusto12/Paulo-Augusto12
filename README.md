@@ -8,7 +8,7 @@
 
 - 🎓 Atualmente sou aluno da Faculdade digital Descomplica no curso de Análise e desenvolvimento de Sistemas
 
-- 🎯 estou procurando e irei ajudar quando possível em ... Projetos React e Node
+- 🎯 Estou procurando e irei ajudar quando possível em ... Projetos React e Node
 
 - 📫 Você pode me encontrar através do E-mail: paulo-augusto12@outlook.com
  
