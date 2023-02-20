@@ -2,7 +2,7 @@
 
 - 👋 Olá, eu sou @Paulo-Augusto12
 
-- 👀 Estou atualmente interessado em Java , Javascript , TypeScript , CSS e seus derivados , HTML , React, Node, Sql, Postgress 
+- 👀 Estou atualmente interessado em Javascript, TypeScript, React, Node, Sql, Java 
 
 - 🌱 Atualmente estou aprendendo e estudando ... javascript , React , TypeScript, Node.Js
 
