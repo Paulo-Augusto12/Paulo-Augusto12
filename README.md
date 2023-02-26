@@ -4,7 +4,7 @@
 
 - 🖆 Estou atualmente interessado em Javascript, TypeScript, React, Node, Sql
 
-- 🌱 Atualmente estou aprendendo e estudando ... javascript , React , TypeScript, Node.Js
+- 🌱 Atualmente estou aprendendo e estudando ... javascript , React , TypeScript, Node.Js, Docker, Postgress
 
 - 🎓 Atualmente sou aluno da Faculdade digital Descomplica no curso de Análise e desenvolvimento de Sistemas
 
