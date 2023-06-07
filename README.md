@@ -1,55 +1,49 @@
-## print (" Olá mundo !! ");
+<h1 align="center">Hi 👋, I'm Paulo Augusto</h1>
+<h3 align="center">I'm a front end and mobile developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👋 Olá, eu sou @Paulo-Augusto12
 
-- 🖆 Estou atualmente interessado em Javascript, TypeScript, React, Node, Sql
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Paulo-Augusto12&label=Profile%20views&color=0e75b6&style=flat" alt="Paulo-Augusto12" /> </p>
 
-- 🌱 Atualmente estou aprendendo e estudando ... javascript , React , TypeScript, Node.Js, Docker, Postgress
+- 🔭 I’m currently working on **Ofsolution**
 
-- 🎓 Atualmente sou aluno da Faculdade digital Descomplica no curso de Análise e desenvolvimento de Sistemas
+- 🌱 I’m currently learning **Kotlin**
 
-- 🎯 Estou procurando e irei ajudar quando possível em ... Projetos React e Node
+- 💬 Ask me about **Javascript, typescript, node**
 
-- 📫 Você pode me encontrar através do E-mail: paulo-augusto12@outlook.com
+- 📫 How to reach me **paulo.augusto.ribeiro12@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/paulo_ri7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paulo_ri7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/paulo-augusto-ribeiro-62730a237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-augusto-ribeiro-62730a237" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+
+ <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='40px' heigth='30px'/> 
+ </a>
  
- ##
+ <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='40px' heigth='30px'/> 
+ </a>
  
-<div align="center">
+ <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='40px' heigth='30px'/> 
+ </a>
+
+</p>
+
+
+<div align="center" marginTop='16px'>
   <a href="https://github.com/Paulo-Augusto12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Augusto12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Augusto12&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-##
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Paulo-Js" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img  align="center" alt="Paulo-Js" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Paulo-CSS" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  
-  <img align="center" alt="Paulo-React" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Paulo-Android" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-  <img align="center" alt="Paulo-HTML" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Paulo-CSS" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
- 
-          
-
-</div>
-
-##
-
-
-<div> 
-  <a href = "mailto:paulo.augusto.ribeiro12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-augusto-ribeiro-62730a237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-  
-  
-  ##
-  
-  
+ <div align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paulo-Augusto12&&theme=tokyonight" alt="rishavchanda" width='60%'/> 
+ </div>
