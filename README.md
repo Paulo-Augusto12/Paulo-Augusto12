@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paulo Augusto</h1>
 <h3 align="center">I'm a front end and mobile developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1754994/screenshots/4363878/media/a2fbe35d464ea944b7528eb8edc6bf37.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Paulo-Augusto12&label=Profile%20views&color=0e75b6&style=flat" alt="Paulo-Augusto12" /> </p>
