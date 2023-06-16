@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **Javascript, typescript, node**
+- 💬 Ask me about **Javascript, typescript, node, React, React native**
 
 - 📫 How to reach me **paulo.augusto.ribeiro12@gmail.com**
 
