@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Paulo-Augusto12&label=Profile%20views&color=0e75b6&style=flat" alt="Paulo-Augusto12" /> </p>
 
-- 🔭 I’m currently working on **Ofsolution**
+- 🔭 I’m currently working on **Covenant**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin** and **PHP**
 
-- 💬 Ask me about **Javascript, typescript, node, React, React native**
+- 💬 Ask me about **Javascript, typescript, node, React, React native, Vue**
 
 - 📫 How to reach me **paulo.augusto.ribeiro12@gmail.com**
 
