@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working at **Covenant**
 
-- 🌱 I’m currently learning **Kotlin and PHP**
+- 🌱 I’m currently learning **Godot principles and GD script**
 
-- 💬 Ask me about **Javascript, typescript, node, React, React native, Vue**
+- 💬 Ask me about **Javascript, Typescript, Node, React, React native, Vue, PHP and Laravel**
 
 - 📫 How to reach me **paulo.augusto.ribeiro12@gmail.com**
 
@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<div align="left"> 
 
  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='40px' heigth='30px'/> 
@@ -34,12 +34,14 @@
  </a>
 
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width='40px' heigth='30px'/> 
-  
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width='40px' heigth='30px'/>         
  </a>
 
-</p>
+   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width='40px' heigth='30px'/>         
+ </a>
+
+</div>
 
 
 <div marginTop='16px'>
