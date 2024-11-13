@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Covenant**
 
-- 🌱 I’m currently learning **Game maker principles and GML**
+- 🌱 I’m currently learning **Python** 🐍
 
 - 💬 Ask me about **Javascript, Typescript, Node, React, React native, Vue, PHP and Laravel**
 
