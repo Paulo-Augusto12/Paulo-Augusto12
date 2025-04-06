@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working at **Covenant**
 
-- 🌱 I’m currently learning **Python** 🐍
-
 - 💬 Ask me about **Javascript, Typescript, Node, React, React native, Vue, PHP and Laravel**
 
 - 📫 How to reach me **paulo.augusto.ribeiro12@gmail.com**
