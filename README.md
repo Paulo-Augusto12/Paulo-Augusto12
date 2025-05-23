@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Paulo-Augusto12&label=Profile%20views&color=0e75b6&style=flat" alt="Paulo-Augusto12" /> </p>
 
-- 🔭 I’m currently working at **Covenant**
+- 🔭 I’m currently working at **Grupo Casas Bahia**
 
 - 💬 Ask me about **Javascript, Typescript, Node, React, React native, Vue, PHP and Laravel**
 
